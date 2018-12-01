@@ -1,9 +1,7 @@
-"""
-Unit tests for the calculator library
-"""
+# Unit tests for the calculator library
 
-#from context import calculator
-import calculator
+from calculator.calclib import calculator
+
 
 class TestCalculator:
 
