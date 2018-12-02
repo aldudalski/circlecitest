@@ -1,6 +1,6 @@
 # Unit tests for the calculator library
 
-from calculator.calclib import calculator
+from circlecitest.calclib import calculator
 
 
 class TestCalculator:
